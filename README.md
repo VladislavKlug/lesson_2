@@ -4,3 +4,4 @@
 "sur_name": : "Clug";
 "age": "24";
 "born" : "Novopolotsk";
+"country" : "Belarus";
