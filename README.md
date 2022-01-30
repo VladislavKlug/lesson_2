@@ -6,3 +6,4 @@
 "born" : "Novopolotsk";
 "country" : "Belarus";
 'version" : '1.0.1';
+
