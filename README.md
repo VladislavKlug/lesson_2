@@ -5,3 +5,4 @@
 "age": "24";
 "born" : "Novopolotsk";
 "country" : "Belarus";
+'region" : "Vitebsk";
