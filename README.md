@@ -7,3 +7,5 @@
 "country" : "Belarus";
 'region" : "Vitebsk";
 'version" : '1.0.1';
+
+"data" : "Lesson_two"; // pull request for Eugeniy
