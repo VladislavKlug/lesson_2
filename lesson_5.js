@@ -43,5 +43,3 @@ for (let i = 1; i < parts; i++) {
 partsArray.push(Number((number - randSumm).toFixed(2)));
 
 console.log(partsArray);
-
-//lesson_5
